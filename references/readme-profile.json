@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 188｜Warm Gold Architectural Archive: shrinks a photo's subject to a small specimen keeping only its structure, proportions and sense of place, rebuilt with light architectural collage, simplified masses and fine guide lines, usually set low in the frame. Around it lies a wide field of warm cream and old-paper white with a few arcs, scale ticks and horizontal or vertical lines. Colours are low-saturation grey-brown, brown-gold, old wood, copper brown and eave blue-grey, with pale sand gold for the title or accent; text is sparse, like a museum catalogue: a large sand-gold or low-contrast title plus small notes, numbers or archive captions. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-188 or asks for minimal architectural, archival or museum-catalogue posters with generous negative space from a photo.",
+  "short_description": "米金留白建筑档案：把照片主体缩成小小的建筑标本，旧纸米白底配沙金标题，像博物馆图录",
+  "zh-CN": {
+    "name": "米金留白建筑档案",
+    "tagline": "把照片主体缩成一枚小小的建筑标本，放在旧纸色留白里，配沙金色标题。",
+    "look": "主体被缩得很小，只留下结构走势、比例和场所气质，用轻度拼贴、简化块面和细线重新概括，通常落在画面中下部。周围是大片暖米白、旧纸白的空白，配极少的圆弧、刻度线、水平线和竖线，背景层极淡，不形成第二个焦点。颜色是低饱和的灰褐、褐金、旧木色、铜褐和屋檐青灰，标题或强调用浅沙金。文字疏朗，有一组浅沙金大字或低对比标题，加小字注释、编号或档案式说明，像博物馆图录。",
+    "traits": [
+      "微小主体",
+      "大片负空间",
+      "旧纸底色",
+      "米白金褐",
+      "细线辅助"
+    ],
+    "good": [
+      "建筑和场所：寺庙、老街、牌坊、亭子、钟楼",
+      "有文化气质的地标和空间：博物馆、书院、庭院、老车站",
+      "外形明确的单体物件：一座雕塑、一艘船、一盏灯"
+    ],
+    "poor": [
+      "需要主体又大又清楚的照片：人像特写、商品展示",
+      "鲜艳色彩本身就是重点的画面：彩色市集、霓虹街景、花海",
+      "想要满版画面、丰富拼贴或写实转绘的需求"
+    ]
+  },
+  "en": {
+    "name": "Warm Gold Architectural Archive",
+    "tagline": "Shrinks a photo's subject to a small architectural specimen on old-paper whitespace with a sand-gold title.",
+    "look": "The subject is made very small, keeping only its structure, proportions and sense of place, and is rebuilt with light collage, simplified masses and fine lines, usually sitting in the lower middle of the frame. Around it is a wide field of warm cream and old-paper white with a few arcs, scale ticks and horizontal or vertical lines, and a background layer so faint it never becomes a second focus. Colours are low-saturation grey-brown, brown-gold, old wood, copper brown and the blue-grey of roof eaves, with pale sand gold for the title or accent. Text is sparse: a set of large sand-gold or low-contrast title letters plus small notes, numbers or archive captions, like a museum catalogue.",
+    "traits": [
+      "Tiny subject",
+      "Wide negative space",
+      "Old-paper ground",
+      "Cream, gold and brown",
+      "Fine guide lines"
+    ],
+    "good": [
+      "Buildings and places: temples, old streets, memorial gateways, pavilions, bell towers",
+      "Landmarks and spaces with cultural character: museums, old academies, courtyards, old railway stations",
+      "Single objects with a clear silhouette: a sculpture, a boat, a lantern"
+    ],
+    "poor": [
+      "Photos that need the subject large and sharp: close-up portraits, product displays",
+      "Images whose point is bright colour: colourful markets, neon streets, fields of flowers",
+      "Requests for a full-frame image, a rich collage or a realistic redraw"
+    ]
+  },
+  "ja": {
+    "name": "米色と金色の建築アーカイブ",
+    "tagline": "写真の主役を小さな建築標本のように縮め、古紙色の余白にサンドゴールドの題字を添えます。",
+    "look": "主役はごく小さくなり、構造の流れ、比率、場所の気配だけを残して、軽いコラージュ、簡略化した面、細い線でまとめ直され、たいてい画面の中ほどから下に置かれます。周りは温かな生成りや古紙の白の大きな余白で、円弧、目盛り線、水平線、縦線がわずかに入り、背景の層はごく淡く、二つ目の焦点にはなりません。色は低彩度のグレージュブラウン、褐色がかった金、古木色、銅褐色、軒の青灰で、題字や強調には淡いサンドゴールドを使います。文字は控えめで、サンドゴールドの大きな文字か低コントラストの見出しに、小さな注記、番号、アーカイブ風の説明を添え、博物館の図録のようです。",
+    "traits": [
+      "ごく小さな主役",
+      "大きな余白",
+      "古紙の地色",
+      "米色・金・褐色",
+      "細い補助線"
+    ],
+    "good": [
+      "建築や場所：寺院、古い街並み、牌楼、東屋、鐘楼",
+      "文化の気配があるランドマークや空間：博物館、書院、中庭、古い駅舎",
+      "シルエットがはっきりした単体：彫刻、船、灯り"
+    ],
+    "poor": [
+      "主役を大きく鮮明に見せたい写真：人物のアップ、商品紹介",
+      "鮮やかな色そのものが見どころの写真：色とりどりの市場、ネオン街、花畑",
+      "画面いっぱいの絵、にぎやかなコラージュ、写実的な描き直しを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "베이지와 금빛 건축 아카이브",
+    "tagline": "사진의 주인공을 작은 건축 표본처럼 줄여 오래된 종이색 여백에 두고 샌드 골드 제목을 붙입니다.",
+    "look": "주인공은 아주 작아지고 구조의 흐름, 비율, 장소의 분위기만 남아 가벼운 콜라주, 단순한 면, 가는 선으로 다시 정리되며 대개 화면 중하단에 놓입니다. 둘레는 따뜻한 미색과 오래된 종이 흰색의 넓은 여백이고, 원호, 눈금선, 가로선, 세로선이 아주 조금 들어가며 배경층은 매우 옅어 두 번째 초점이 되지 않습니다. 색은 저채도의 회갈색, 갈금색, 고목색, 동갈색, 처마의 청회색이고 제목이나 강조에는 옅은 샌드 골드를 씁니다. 글자는 성글게, 샌드 골드의 큰 글자나 낮은 대비의 제목에 작은 주석, 번호, 아카이브식 설명을 더해 박물관 도록처럼 보입니다.",
+    "traits": [
+      "아주 작은 주인공",
+      "넓은 여백",
+      "오래된 종이 바탕",
+      "미색·금·갈색",
+      "가는 보조선"
+    ],
+    "good": [
+      "건축과 장소: 사찰, 옛 거리, 패루, 정자, 종루",
+      "문화적 분위기가 있는 랜드마크와 공간: 박물관, 서원, 안뜰, 옛 기차역",
+      "실루엣이 분명한 단일 사물: 조각상, 배, 등"
+    ],
+    "poor": [
+      "주인공이 크고 선명해야 하는 사진: 인물 클로즈업, 상품 소개",
+      "선명한 색 자체가 핵심인 장면: 알록달록한 시장, 네온 거리, 꽃밭",
+      "화면을 꽉 채운 그림, 풍성한 콜라주, 사실적인 재현을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أرشيف معماري بدرجات ذهبية دافئة",
+    "tagline": "يصغّر عنصر الصورة إلى عيّنة معمارية صغيرة فوق فراغ بلون الورق القديم، مع عنوان بلون الذهب الرملي.",
+    "look": "يصبح العنصر صغيراً جداً، ولا يبقى منه إلا اتجاه بنيته ونِسبه وروح المكان، ويُعاد بناؤه بكولاج خفيف وكتل مبسطة وخطوط رفيعة، ويستقر غالباً في الجزء الأوسط السفلي من الإطار. حوله مساحة واسعة بلون الكريم الدافئ وبياض الورق القديم، مع أقواس قليلة وعلامات مقياس وخطوط أفقية وعمودية، وطبقة خلفية باهتة جداً لا تصير مركزاً ثانياً. الألوان بني رمادي وبني ذهبي ولون الخشب القديم وبني نحاسي ورمادي مزرق كأطراف الأسقف، كلها قليلة التشبع، مع ذهبي رملي فاتح للعنوان أو التأكيد. النص قليل ومتباعد: حروف عنوان كبيرة بالذهبي الرملي أو بتباين منخفض، مع ملاحظات صغيرة أو أرقام أو تعليقات أرشيفية، كأنها كتالوج متحف.",
+    "traits": [
+      "عنصر صغير جداً",
+      "فراغ سلبي واسع",
+      "أرضية ورق قديم",
+      "كريمي وذهبي وبني",
+      "خطوط مساعدة رفيعة"
+    ],
+    "good": [
+      "المباني والأماكن: المعابد، الشوارع القديمة، البوابات التذكارية، الأجنحة المفتوحة، أبراج الأجراس",
+      "معالم وفضاءات ذات طابع ثقافي: المتاحف، المدارس القديمة، الأفنية، محطات القطار القديمة",
+      "أشياء مفردة واضحة الظل: تمثال، قارب، فانوس"
+    ],
+    "poor": [
+      "صور تحتاج إلى عنصر كبير وحاد: الصور الشخصية القريبة، عروض المنتجات",
+      "صور جوهرها اللون الزاهي: الأسواق الملونة، شوارع النيون، حقول الزهور",
+      "طلب صورة تملأ الإطار أو كولاج غني أو إعادة رسم واقعية"
+    ]
+  }
+}
